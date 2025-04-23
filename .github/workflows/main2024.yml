@@ -1,6 +1,6 @@
 on: [push]
 	
-	name: GettingStarted_Container_Workflow
+	name: GettingStarted_ACR_Container_Workflow
 
 	jobs:
 	    build-and-deploy:
