@@ -33,7 +33,7 @@ image: ${{ secrets.REGISTRY_LOGIN_SERVER }}/${{ secrets.REPOSITORY_NAME }}:$
 registry-login-server: ${{ secrets.REGISTRY_LOGIN_SERVER }}
 registry-username: ${{ secrets.REGISTRY_USERNAME }}
 registry-password: ${{ secrets.REGISTRY_PASSWORD }}
-name: getting-started-github
+name: ToDo-Pieter-github
 location: 'west europe'
 ports: '3000'
 Annotations
